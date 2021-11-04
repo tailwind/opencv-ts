@@ -1,3 +1,3 @@
-const cv = require('D:/prog/opencv-ts/lib/loader')
+const cv = require('./lib/loader')
 
 module.exports = cv
