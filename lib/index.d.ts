@@ -10,5 +10,6 @@ export * from './typings/gen/constants'
 export * from './typings/gen/enums'
 export * from './typings/gen/functions'
 export * from './typings/gen/classes'
+export * from './typings/files'
 
 export function loadOpenCV(): Promise<void>

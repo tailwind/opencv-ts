@@ -1,0 +1,1 @@
+export function FS_createDataFile(emscriptenFSPath: string, fileName: string, data: Buffer, canOwn: boolean, canRun: boolean, canSomething: boolean): boolean
