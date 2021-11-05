@@ -2,7 +2,6 @@
   "name": "@tailwind/opencv-ts",
   "version": "1.0.0",
   "description": "",
-  "private": true,
   "license": "MIT",
   "main": "index.js",
   "typings": "./lib/index.d.ts",
